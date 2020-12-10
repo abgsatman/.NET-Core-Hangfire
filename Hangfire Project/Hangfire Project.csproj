@@ -5,4 +5,8 @@
     <RootNamespace>Hangfire_Project</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Hangfire" Version="1.7.18" />
+  </ItemGroup>
+
 </Project>
